@@ -1,5 +1,5 @@
 // Weekly QA Counter app.js - restored v300
-// Includes auditor_absences fix and inline fail selector buttons.
+// Includes auditor_absences fix and inline fail selector buttons..
 
 const app = document.getElementById("app");
 
